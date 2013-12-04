@@ -18,6 +18,7 @@ MIUI_PRODUCTS := crespo ville sensation vivo saga maguro honor shooteru \
 #ef65l: Pantech A820L
 #ef40s: Pantech A810S
 #ef39s: Pantech A800S
+#ef46l: Pantech A830
 MIUI_PRODUCTS := $(strip $(MIUI_PRODUCTS))
 
 .PHONY: default
